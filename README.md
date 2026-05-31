@@ -2,7 +2,7 @@
 
 <!-- Premium Header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,35:111111,70:2a2a2a,100:4a4a4a&text=Hisyam%20Nurdiatmoko&fontColor=e8e8e8&fontSize=42&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Informatics%20Student%20%7C%20Solo%20Builder&descColor=a6a6a6&descSize=15&animation=fadeIn" alt="Hisyamnurx Header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:050505,45:151515,100:2a2a2a&text=Hisyamnurx&fontColor=e8e8e8&fontSize=52&fontAlignY=42&desc=Full-Stack%20Developer%20%7C%20Informatics%20Student%20%7C%20Solo%20Builder&descColor=a6a6a6&descSize=15&descAlignY=62&animation=fadeIn" alt="Hisyamnurx Header" />
 
 <br />
 
