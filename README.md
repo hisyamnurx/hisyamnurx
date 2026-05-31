@@ -2,7 +2,7 @@
 
 <!-- Premium Header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,35:111111,70:2a2a2a,100:4a4a4a&text=Hisyam%20Nurdiatmoko&fontColor=e8e8e8&fontSize=42&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Informatics%20Student%20%7C%20Solo%20Builder&descColor=a6a6a6&descSize=15&animation=fadeIn" alt="Hisyamnurx Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,35:111111,70:2a2a2a,100:4a4a4a&text=Hisyam%20Nurdiatmoko&fontColor=e8e8e8&fontSize=42&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Informatics%20Student%20%7C%20Solo%20Builder&descColor=a6a6a6&descSize=15&animation=fadeIn" alt="Hisyam Nurdiatmoko Header" />
 
 <br />
 
@@ -51,7 +51,7 @@ For me, great software is not only about features, but also about speed, clarity
 
 ---
 
-## Featured Projects
+## Current Focus
 
 <table>
   <tr>
@@ -96,7 +96,8 @@ For me, great software is not only about features, but also about speed, clarity
 ### Backend, Database & Server
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,apache&theme=dark" alt="Backend and Database" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgresql,docker,flask,spring,nginx,apache&theme=dark" alt="Backend, Database and Server" />
+  <img src="https://img.shields.io/badge/MariaDB-202020?style=for-the-badge&logo=mariadb&logoColor=bdbdbd" alt="MariaDB" />
   <img src="https://img.shields.io/badge/Laragon-202020?style=for-the-badge&logo=laragon&logoColor=bdbdbd" alt="Laragon" />
 </p>
 
@@ -110,7 +111,7 @@ For me, great software is not only about features, but also about speed, clarity
 ### Developer Tools & IDE
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github&theme=dark" alt="Developer Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,bash,linux,postman&theme=dark" alt="Developer Tools" />
   <img src="https://img.shields.io/badge/Codex-202020?style=for-the-badge&logo=openai&logoColor=bdbdbd" alt="Codex" />
   <img src="https://img.shields.io/badge/Antigravity-202020?style=for-the-badge&logo=google&logoColor=bdbdbd" alt="Antigravity" />
   <img src="https://img.shields.io/badge/Claude_Code-202020?style=for-the-badge&logo=anthropic&logoColor=bdbdbd" alt="Claude Code" />
@@ -132,6 +133,12 @@ For me, great software is not only about features, but also about speed, clarity
 <p>
   <img src="https://img.shields.io/badge/Winbox-202020?style=for-the-badge&logo=mikrotik&logoColor=bdbdbd" alt="Winbox" />
   <img src="https://img.shields.io/badge/Wireshark-202020?style=for-the-badge&logo=wireshark&logoColor=bdbdbd" alt="Wireshark" />
+</p>
+
+### Hardware & IoT
+
+<p>
+  <img src="https://img.shields.io/badge/Arduino-202020?style=for-the-badge&logo=arduino&logoColor=bdbdbd" alt="Arduino" />
 </p>
 
 ---
