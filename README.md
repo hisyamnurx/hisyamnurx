@@ -131,6 +131,7 @@ For me, great software is not only about features, but also about speed, clarity
 
 <p>
   <img src="https://img.shields.io/badge/Winbox-202020?style=for-the-badge&logo=mikrotik&logoColor=bdbdbd" alt="Winbox" />
+  <img src="https://img.shields.io/badge/Wireshark-202020?style=for-the-badge&logoColor=bdbdbd" alt="Wireshark" />
 </p>
 
 ---
