@@ -2,7 +2,7 @@
 
 <!-- Premium Header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,35:111111,70:2a2a2a,100:4a4a4a&text=Hisyam%20Nurdiatmoko&fontColor=e8e8e8&fontSize=42&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Informatics%20Student%20%7C%20Solo%20Builder&descColor=a6a6a6&descSize=15&animation=fadeIn" alt="Hisyamnurx Header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:050505,50:171717,100:2f2f2f&text=Hisyamnurx&fontColor=e8e8e8&fontSize=48&fontAlignY=43&desc=Full-Stack%20Developer%20%7C%20Informatics%20Student%20%7C%20Solo%20Builder&descColor=a6a6a6&descSize=14&descAlignY=64&animation=fadeIn" alt="Hisyamnurx Header" />
 
 <br />
 
@@ -10,10 +10,10 @@
   <img src="https://img.shields.io/badge/GitHub-hisyamnurx-202020?style=for-the-badge&logo=github&logoColor=e8e8e8&labelColor=101010" alt="GitHub" />
 </a>
 <a href="https://eclyzer.net">
-  <img src="https://img.shields.io/badge/Eclyzer-eclyzer.net-202020?style=for-the-badge&logo=vercel&logoColor=bdbdbd&labelColor=101010" alt="Eclyzer" />
+  <img src="https://img.shields.io/badge/Eclyzer-eclyzer.net-202020?style=for-the-badge&logo=googlechrome&logoColor=bdbdbd&labelColor=101010" alt="Eclyzer" />
 </a>
 <a href="https://ai.eclyzer.net">
-  <img src="https://img.shields.io/badge/Eclyzer_AI-ai.eclyzer.net-202020?style=for-the-badge&logo=openai&logoColor=bdbdbd&labelColor=101010" alt="Eclyzer AI" />
+  <img src="https://img.shields.io/badge/Eclyzer_AI-ai.eclyzer.net-202020?style=for-the-badge&logo=googlechrome&logoColor=bdbdbd&labelColor=101010" alt="Eclyzer AI" />
 </a>
 
 </div>
@@ -36,7 +36,7 @@
 
 ```ts
 const hisyam = {
-  name: "Hisyam Nurdiatmoko",
+  name: "Hisyamnurx",
   username: "hisyamnurx",
   role: ["Full-Stack Developer", "Informatics Student", "Solo Developer"],
   focus: ["Web Development", "AI Products", "Clean UI", "Practical Systems"],
@@ -61,7 +61,7 @@ For me, great software is not only about features, but also about speed, clarity
         A modern product identity for learning, productivity, and AI-powered digital tools.
       </p>
       <a href="https://eclyzer.net">
-        <img src="https://img.shields.io/badge/Visit-eclyzer.net-202020?style=for-the-badge&logo=vercel&logoColor=bdbdbd" alt="Eclyzer Website" />
+        <img src="https://img.shields.io/badge/Visit-eclyzer.net-202020?style=for-the-badge&logo=googlechrome&logoColor=bdbdbd" alt="Eclyzer Website" />
       </a>
     </td>
     <td width="50%">
@@ -70,7 +70,7 @@ For me, great software is not only about features, but also about speed, clarity
         An AI chatbot platform for learning, coding assistance, document support, and practical problem solving.
       </p>
       <a href="https://ai.eclyzer.net">
-        <img src="https://img.shields.io/badge/Visit-ai.eclyzer.net-202020?style=for-the-badge&logo=openai&logoColor=bdbdbd" alt="Eclyzer AI" />
+        <img src="https://img.shields.io/badge/Visit-ai.eclyzer.net-202020?style=for-the-badge&logo=googlechrome&logoColor=bdbdbd" alt="Eclyzer AI" />
       </a>
     </td>
   </tr>
@@ -183,7 +183,7 @@ For me, great software is not only about features, but also about speed, clarity
   <img src="https://img.shields.io/badge/GitHub-hisyamnurx-202020?style=for-the-badge&logo=github&logoColor=bdbdbd" alt="GitHub" />
 </a>
 <a href="https://eclyzer.net">
-  <img src="https://img.shields.io/badge/Website-eclyzer.net-202020?style=for-the-badge&logo=vercel&logoColor=bdbdbd" alt="Website" />
+  <img src="https://img.shields.io/badge/Website-eclyzer.net-202020?style=for-the-badge&logo=googlechrome&logoColor=bdbdbd" alt="Website" />
 </a>
 
 </div>
