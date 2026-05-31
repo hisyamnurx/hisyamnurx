@@ -1,147 +1,167 @@
 <div align="center">
 
-<!-- Premium Header -->
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0b0b0d,50:151515,100:1f1b12&text=Hisyam%20Nurdiatmoko&fontColor=d6c28a&fontSize=42&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Informatics%20Student%20%7C%20Solo%20Builder&descColor=b8b8b8&descSize=15&animation=fadeIn" alt="Hisyam Nurdiatmoko Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050505,45:111111,75:1c1a14,100:c8aa5a&text=Hisyamnurx&fontColor=f4f1e8&fontSize=64&fontAlignY=39&desc=Full-Stack%20Developer%20%E2%80%A2%20Informatics%20Student%20%E2%80%A2%20Solo%20Builder&descColor=c8aa5a&descSize=17&descAlignY=58&animation=fadeIn" alt="Hisyamnurx Premium Header" />
 
 <br />
 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1200&color=C8AA5A&center=true&vCenter=true&width=720&lines=Building+clean%2C+useful%2C+and+reliable+digital+products.;Crafting+AI-powered+learning+experiences.;Simple+systems.+Elegant+interfaces.+Practical+impact." alt="Typing SVG" />
+
+<br />
+<br />
+
 <a href="https://github.com/hisyamnurx">
-  <img src="https://img.shields.io/badge/GitHub-hisyamnurx-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-hisyamnurx-0b0b0b?style=for-the-badge&logo=github&logoColor=f5f5f5&labelColor=151515" alt="GitHub" />
 </a>
 <a href="https://eclyzer.net">
-  <img src="https://img.shields.io/badge/Eclyzer-eclyzer.net-1a1a1a?style=for-the-badge&logo=vercel&logoColor=d6c28a&labelColor=111111" alt="Eclyzer" />
+  <img src="https://img.shields.io/badge/Eclyzer-eclyzer.net-0b0b0b?style=for-the-badge&logo=vercel&logoColor=c8aa5a&labelColor=151515" alt="Eclyzer" />
 </a>
 <a href="https://ai.eclyzer.net">
-  <img src="https://img.shields.io/badge/Eclyzer_AI-ai.eclyzer.net-1a1a1a?style=for-the-badge&logo=openai&logoColor=d6c28a&labelColor=111111" alt="Eclyzer AI" />
+  <img src="https://img.shields.io/badge/Eclyzer_AI-ai.eclyzer.net-0b0b0b?style=for-the-badge&logo=openai&logoColor=c8aa5a&labelColor=151515" alt="Eclyzer AI" />
 </a>
 
 </div>
 
 <br />
 
-<h2 align="center">Elegant Code. Practical Systems. Meaningful Products.</h2>
+<p align="center">
+  <strong>Full-Stack Developer</strong> · <strong>Informatics Student</strong> · <strong>Solo Developer</strong>
+</p>
 
 <p align="center">
-  I am a Full-Stack Developer and Informatics Student focused on building clean, useful, and reliable digital products.
+  I build clean, practical, and elegant digital products with a focus on usability, speed, and long-term maintainability.
   <br />
-  Currently building <strong>Eclyzer</strong>, a modern AI-powered learning and coding companion.
+  Currently shaping <strong>Eclyzer</strong> as a modern AI-powered learning and coding companion.
 </p>
 
 <br />
 
----
-
-## About Me
-
-```ts
-const hisyam = {
-  name: "Hisyam Nurdiatmoko",
-  username: "hisyamnurx",
-  role: ["Full-Stack Developer", "Informatics Student", "Solo Developer"],
-  focus: ["Web Development", "AI Products", "Clean UI", "Practical Systems"],
-  currentProduct: "Eclyzer",
-  principle: "Simple, stable, elegant, and useful.",
-  note: "Build quietly. Improve consistently. Gas tipis-tipis, hasil maksimal."
-};
-```
-
-I enjoy turning ideas into real products with a focus on simplicity, maintainability, and user experience.
-For me, great software is not only about features, but also about speed, clarity, and long-term stability.
-
----
-
-## Current Focus
+<div align="center">
 
 <table>
   <tr>
-    <td width="50%">
+    <td align="center"><strong>Code</strong></td>
+    <td align="center"><strong>Design</strong></td>
+    <td align="center"><strong>AI</strong></td>
+    <td align="center"><strong>Systems</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Clean Architecture</td>
+    <td align="center">Premium UI</td>
+    <td align="center">Practical Intelligence</td>
+    <td align="center">Stable Delivery</td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## Identity
+
+```ts
+const hisyamnurx = {
+  role: ["Full-Stack Developer", "Informatics Student", "Solo Builder"],
+  focus: ["AI Products", "Web Apps", "Clean UI", "Reliable Systems"],
+  product: "Eclyzer",
+  style: "premium, minimal, elegant",
+  principle: "Build simple. Ship stable. Improve quietly.",
+  note: "Pelan tapi rapi. Simple tapi berkelas."
+};
+```
+
+---
+
+## Featured Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
       <h3>Eclyzer</h3>
       <p>
-        A modern product identity for learning, productivity, and AI-powered digital tools.
+        A digital product identity focused on learning, productivity, and practical technology experiences.
       </p>
-      <a href="https://eclyzer.net">
-        <img src="https://img.shields.io/badge/Visit-eclyzer.net-151515?style=for-the-badge&logo=vercel&logoColor=d6c28a" alt="Eclyzer Website" />
-      </a>
+      <p>
+        <a href="https://eclyzer.net">
+          <img src="https://img.shields.io/badge/Explore-eclyzer.net-111111?style=for-the-badge&logo=vercel&logoColor=c8aa5a" alt="Eclyzer" />
+        </a>
+      </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>Eclyzer AI</h3>
       <p>
-        An AI chatbot platform for learning, coding assistance, document support, and practical problem solving.
+        An AI chatbot platform built for learning, coding assistance, document support, and productivity.
       </p>
-      <a href="https://ai.eclyzer.net">
-        <img src="https://img.shields.io/badge/Visit-ai.eclyzer.net-151515?style=for-the-badge&logo=openai&logoColor=d6c28a" alt="Eclyzer AI" />
-      </a>
+      <p>
+        <a href="https://ai.eclyzer.net">
+          <img src="https://img.shields.io/badge/Launch-ai.eclyzer.net-111111?style=for-the-badge&logo=openai&logoColor=c8aa5a" alt="Eclyzer AI" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-## Tech Stack
+## Arsenal
 
 ### Languages
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js,java,python,go,cpp,c,r,php,html,css&theme=dark" alt="Languages" />
 </p>
 
-### Frontend
+### Frontend & Interface
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap&theme=dark" alt="Frontend" />
-  <img src="https://img.shields.io/badge/Streamlit-151515?style=for-the-badge&logo=streamlit&logoColor=ff4b4b" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Streamlit-111111?style=for-the-badge&logo=streamlit&logoColor=ff4b4b" alt="Streamlit" />
 </p>
 
 ### Backend, Database & Server
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,apache&theme=dark" alt="Backend and Database" />
-  <img src="https://img.shields.io/badge/Laragon-151515?style=for-the-badge&logo=laragon&logoColor=d6c28a" alt="Laragon" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,apache&theme=dark" alt="Backend" />
+  <img src="https://img.shields.io/badge/Laragon-111111?style=for-the-badge&logo=laragon&logoColor=c8aa5a" alt="Laragon" />
 </p>
 
-### AI, Machine Learning & Computer Vision
+### AI, Vision & Experimentation
 
-<p>
-  <img src="https://img.shields.io/badge/Google_MediaPipe-151515?style=for-the-badge&logo=google&logoColor=d6c28a" alt="Google MediaPipe" />
-  <img src="https://img.shields.io/badge/Google_Teachable_Machine-151515?style=for-the-badge&logo=google&logoColor=d6c28a" alt="Google Teachable Machine" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Google_MediaPipe-111111?style=for-the-badge&logo=google&logoColor=c8aa5a" alt="Google MediaPipe" />
+  <img src="https://img.shields.io/badge/Google_Teachable_Machine-111111?style=for-the-badge&logo=google&logoColor=c8aa5a" alt="Google Teachable Machine" />
 </p>
 
-### Developer Tools & IDE
+### Developer Tools
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,idea,git,github&theme=dark" alt="Developer Tools" />
-  <img src="https://img.shields.io/badge/Codex-151515?style=for-the-badge&logo=openai&logoColor=d6c28a" alt="Codex" />
-  <img src="https://img.shields.io/badge/Antigravity-151515?style=for-the-badge&logo=google&logoColor=d6c28a" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/Claude_Code-151515?style=for-the-badge&logo=anthropic&logoColor=d6c28a" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/NetBeans-151515?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="NetBeans" />
-  <img src="https://img.shields.io/badge/RStudio-151515?style=for-the-badge&logo=rstudioide&logoColor=75AADB" alt="RStudio" />
+  <img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=c8aa5a" alt="Codex" />
+  <img src="https://img.shields.io/badge/Antigravity-111111?style=for-the-badge&logo=google&logoColor=c8aa5a" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Claude_Code-111111?style=for-the-badge&logo=anthropic&logoColor=c8aa5a" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/JetBrains-111111?style=for-the-badge&logo=jetbrains&logoColor=c8aa5a" alt="JetBrains" />
+  <img src="https://img.shields.io/badge/NetBeans-111111?style=for-the-badge&logo=apachenetbeanside&logoColor=f5f5f5" alt="NetBeans" />
+  <img src="https://img.shields.io/badge/RStudio-111111?style=for-the-badge&logo=rstudioide&logoColor=75AADB" alt="RStudio" />
 </p>
 
 ### Design, Planning & Creative
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
-  <img src="https://img.shields.io/badge/Whimsical-151515?style=for-the-badge&logoColor=d6c28a" alt="Whimsical" />
-  <img src="https://img.shields.io/badge/draw.io-151515?style=for-the-badge&logo=diagramsdotnet&logoColor=f08705" alt="draw.io" />
-  <img src="https://img.shields.io/badge/Wondershare_Filmora-151515?style=for-the-badge&logo=wondershare&logoColor=00E5CC" alt="Wondershare Filmora" />
-</p>
-
-### Networking & Utility
-
-<p>
-  <img src="https://img.shields.io/badge/Winbox-151515?style=for-the-badge&logo=mikrotik&logoColor=d6c28a" alt="Winbox" />
+  <img src="https://img.shields.io/badge/Whimsical-111111?style=for-the-badge&logoColor=c8aa5a" alt="Whimsical" />
+  <img src="https://img.shields.io/badge/draw.io-111111?style=for-the-badge&logo=diagramsdotnet&logoColor=c8aa5a" alt="draw.io" />
+  <img src="https://img.shields.io/badge/Wondershare_Filmora-111111?style=for-the-badge&logo=wondershare&logoColor=c8aa5a" alt="Wondershare Filmora" />
+  <img src="https://img.shields.io/badge/Winbox-111111?style=for-the-badge&logo=mikrotik&logoColor=c8aa5a" alt="Winbox" />
 </p>
 
 ---
 
-## GitHub Analytics
+## GitHub Signal
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hisyamnurx&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=d6c28a&text_color=c9c9c9&icon_color=d6c28a" alt="Hisyam's GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=hisyamnurx&show_icons=true&hide_border=true&bg_color=050505&title_color=c8aa5a&text_color=d8d8d8&icon_color=c8aa5a&rank_icon=github" alt="Hisyamnurx GitHub Stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hisyamnurx&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=d6c28a&text_color=c9c9c9" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hisyamnurx&layout=compact&hide_border=true&bg_color=050505&title_color=c8aa5a&text_color=d8d8d8" alt="Hisyamnurx Top Languages" />
 
 </div>
 
@@ -149,7 +169,7 @@ For me, great software is not only about features, but also about speed, clarity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hisyamnurx&hide_border=true&background=0D0D0D&ring=D6C28A&fire=D6C28A&currStreakLabel=D6C28A&sideLabels=C9C9C9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hisyamnurx&hide_border=true&background=050505&ring=C8AA5A&fire=C8AA5A&currStreakLabel=C8AA5A&sideLabels=D8D8D8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A" alt="Hisyamnurx GitHub Streak" />
 
 </div>
 
@@ -160,33 +180,33 @@ For me, great software is not only about features, but also about speed, clarity
 <div align="center">
 
 <a href="https://www.linkedin.com/in/your-linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=d6c28a" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0b0b0b?style=for-the-badge&logo=linkedin&logoColor=c8aa5a" alt="LinkedIn" />
 </a>
 <a href="https://github.com/hisyamnurx">
-  <img src="https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=github&logoColor=d6c28a" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-0b0b0b?style=for-the-badge&logo=github&logoColor=c8aa5a" alt="GitHub" />
 </a>
 <a href="https://eclyzer.net">
-  <img src="https://img.shields.io/badge/Website-151515?style=for-the-badge&logo=vercel&logoColor=d6c28a" alt="Website" />
+  <img src="https://img.shields.io/badge/Website-0b0b0b?style=for-the-badge&logo=vercel&logoColor=c8aa5a" alt="Website" />
 </a>
 <a href="https://www.instagram.com/your-instagram">
-  <img src="https://img.shields.io/badge/Instagram-151515?style=for-the-badge&logo=instagram&logoColor=d6c28a" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-0b0b0b?style=for-the-badge&logo=instagram&logoColor=c8aa5a" alt="Instagram" />
 </a>
 <a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-151515?style=for-the-badge&logo=gmail&logoColor=d6c28a" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-0b0b0b?style=for-the-badge&logo=gmail&logoColor=c8aa5a" alt="Email" />
 </a>
 
 </div>
 
 <br />
 
-<p align="center">
-  <sub>
-    Designed with simplicity, precision, and a quiet premium touch.
-  </sub>
-</p>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:d6c28a,50:2b2b2b,100:d6c28a" alt="Footer Divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:050505,50:c8aa5a,100:050505" alt="Premium Divider" />
+
+<br />
+
+<sub>
+  Quietly building. Carefully improving. Designed with a premium touch.
+</sub>
 
 </div>
