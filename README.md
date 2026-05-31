@@ -38,27 +38,41 @@
 
 ---
 
-## Workspace Console
+## About Me
 
-```bash
-eclyzer_terminal_v1.sh
-
-STATUS      : ACTIVE
-MODE        : PERSONAL EXPERIMENTAL WORKSPACE
-FOCUS       : MODERN WEB / DIGITAL TOOLS / PRODUCT FLOW
-INTERFACE   : CLEAN / FAST / COMFORTABLE
-BUILDER     : hisyamnurx
-```
-
-```ts
-const hisyamnurx = {
-  role: ["Full-Stack Developer", "Informatics Student"],
-  workspace: "Eclyzer",
-  direction: ["Modern Web", "Digital Products", "Clean Interface", "Practical Systems"],
-  principle: "Make it simple, stable, and comfortable to use.",
-  currentMode: "build → test → refine → ship"
-};
-```
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <p>
+        I am <b>Hisyamnurx</b>, a Full-Stack Developer and Informatics Student who enjoys building
+        clean, useful, and maintainable digital products.
+      </p>
+      <p>
+        My work focuses on modern web development, interface quality, lightweight systems,
+        and product flow. I prefer simple systems that are easy to use, easy to improve,
+        and comfortable for daily use.
+      </p>
+      <p>
+        I build with a practical mindset: start small, make it work, refine the experience,
+        then improve the system behind it.
+      </p>
+    </td>
+    <td width="40%" valign="top">
+      <b>Current Direction</b>
+      <br />
+      <br />
+      <code>Modern Web</code>
+      <br />
+      <code>Digital Products</code>
+      <br />
+      <code>Clean Interface</code>
+      <br />
+      <code>Practical Systems</code>
+      <br />
+      <code>Solo Development</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -135,45 +149,65 @@ const hisyamnurx = {
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,java,python,go,cpp,c,r,php,html,css&theme=dark" alt="Languages" />
+  <img src="https://img.shields.io/badge/JavaScript-202020?style=for-the-badge&labelColor=151515&color=202020" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-202020?style=for-the-badge&labelColor=151515&color=202020" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-202020?style=for-the-badge&labelColor=151515&color=202020" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-202020?style=for-the-badge&labelColor=151515&color=202020" alt="Go" />
+  <img src="https://img.shields.io/badge/C++-202020?style=for-the-badge&labelColor=151515&color=202020" alt="C++" />
+  <img src="https://img.shields.io/badge/C-202020?style=for-the-badge&labelColor=151515&color=202020" alt="C" />
+  <img src="https://img.shields.io/badge/R-202020?style=for-the-badge&labelColor=151515&color=202020" alt="R" />
+  <img src="https://img.shields.io/badge/PHP-202020?style=for-the-badge&labelColor=151515&color=202020" alt="PHP" />
 </p>
 
 ### Web & Interface
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap&theme=dark" alt="Web Stack" />
-  <img src="https://img.shields.io/badge/Streamlit-202020?style=for-the-badge&logo=streamlit&logoColor=d6d6d6" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/HTML5-202020?style=for-the-badge&labelColor=151515&color=202020" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-202020?style=for-the-badge&labelColor=151515&color=202020" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-202020?style=for-the-badge&labelColor=151515&color=202020" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-202020?style=for-the-badge&labelColor=151515&color=202020" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Bootstrap-202020?style=for-the-badge&labelColor=151515&color=202020" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Streamlit-202020?style=for-the-badge&labelColor=151515&color=202020" alt="Streamlit" />
 </p>
 
-### Backend, Database & Local Server
+### Backend, Database & Server
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,apache&theme=dark" alt="Backend Stack" />
-  <img src="https://img.shields.io/badge/Laragon-202020?style=for-the-badge&logo=laragon&logoColor=d6d6d6" alt="Laragon" />
+  <img src="https://img.shields.io/badge/Node.js-202020?style=for-the-badge&labelColor=151515&color=202020" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MySQL-202020?style=for-the-badge&labelColor=151515&color=202020" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Apache-202020?style=for-the-badge&labelColor=151515&color=202020" alt="Apache" />
+  <img src="https://img.shields.io/badge/Laragon-202020?style=for-the-badge&labelColor=151515&color=202020" alt="Laragon" />
 </p>
 
-### Tools & Workspace
+### Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github&theme=dark" alt="Development Tools" />
-  <img src="https://img.shields.io/badge/Codex-202020?style=for-the-badge&logo=openai&logoColor=d6d6d6" alt="Codex" />
-  <img src="https://img.shields.io/badge/Antigravity-202020?style=for-the-badge&logo=google&logoColor=d6d6d6" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/Claude_Code-202020?style=for-the-badge&logo=anthropic&logoColor=d6d6d6" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/JetBrains-202020?style=for-the-badge&logo=jetbrains&logoColor=d6d6d6" alt="JetBrains" />
-  <img src="https://img.shields.io/badge/NetBeans-202020?style=for-the-badge&logo=apachenetbeanside&logoColor=d6d6d6" alt="NetBeans" />
-  <img src="https://img.shields.io/badge/RStudio-202020?style=for-the-badge&logo=rstudioide&logoColor=d6d6d6" alt="RStudio" />
+  <img src="https://img.shields.io/badge/VS_Code-202020?style=for-the-badge&labelColor=151515&color=202020" alt="VS Code" />
+  <img src="https://img.shields.io/badge/JetBrains-202020?style=for-the-badge&labelColor=151515&color=202020" alt="JetBrains" />
+  <img src="https://img.shields.io/badge/NetBeans-202020?style=for-the-badge&labelColor=151515&color=202020" alt="NetBeans" />
+  <img src="https://img.shields.io/badge/RStudio-202020?style=for-the-badge&labelColor=151515&color=202020" alt="RStudio" />
+  <img src="https://img.shields.io/badge/Git-202020?style=for-the-badge&labelColor=151515&color=202020" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-202020?style=for-the-badge&labelColor=151515&color=202020" alt="GitHub" />
+</p>
+
+### Developer Partners
+
+<p>
+  <img src="https://img.shields.io/badge/Codex-202020?style=for-the-badge&labelColor=151515&color=202020" alt="Codex" />
+  <img src="https://img.shields.io/badge/Antigravity-202020?style=for-the-badge&labelColor=151515&color=202020" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Claude_Code-202020?style=for-the-badge&labelColor=151515&color=202020" alt="Claude Code" />
 </p>
 
 ### Vision, Design & Planning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Design Tools" />
-  <img src="https://img.shields.io/badge/MediaPipe-202020?style=for-the-badge&logo=google&logoColor=d6d6d6" alt="MediaPipe" />
-  <img src="https://img.shields.io/badge/Teachable_Machine-202020?style=for-the-badge&logo=google&logoColor=d6d6d6" alt="Teachable Machine" />
-  <img src="https://img.shields.io/badge/Whimsical-202020?style=for-the-badge&logoColor=d6d6d6" alt="Whimsical" />
-  <img src="https://img.shields.io/badge/draw.io-202020?style=for-the-badge&logo=diagramsdotnet&logoColor=d6d6d6" alt="draw.io" />
-  <img src="https://img.shields.io/badge/Filmora-202020?style=for-the-badge&logo=wondershare&logoColor=d6d6d6" alt="Wondershare Filmora" />
-  <img src="https://img.shields.io/badge/Winbox-202020?style=for-the-badge&logo=mikrotik&logoColor=d6d6d6" alt="Winbox" />
+  <img src="https://img.shields.io/badge/MediaPipe-202020?style=for-the-badge&labelColor=151515&color=202020" alt="MediaPipe" />
+  <img src="https://img.shields.io/badge/Teachable_Machine-202020?style=for-the-badge&labelColor=151515&color=202020" alt="Teachable Machine" />
+  <img src="https://img.shields.io/badge/Figma-202020?style=for-the-badge&labelColor=151515&color=202020" alt="Figma" />
+  <img src="https://img.shields.io/badge/Whimsical-202020?style=for-the-badge&labelColor=151515&color=202020" alt="Whimsical" />
+  <img src="https://img.shields.io/badge/draw.io-202020?style=for-the-badge&labelColor=151515&color=202020" alt="draw.io" />
+  <img src="https://img.shields.io/badge/Filmora-202020?style=for-the-badge&labelColor=151515&color=202020" alt="Wondershare Filmora" />
+  <img src="https://img.shields.io/badge/Winbox-202020?style=for-the-badge&labelColor=151515&color=202020" alt="Winbox" />
 </p>
 
 ---
