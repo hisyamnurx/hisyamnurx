@@ -51,7 +51,7 @@ For me, great software is not only about features, but also about speed, clarity
 
 ---
 
-## Current Focus
+## Featured Projects
 
 <table>
   <tr>
