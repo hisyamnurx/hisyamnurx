@@ -1,152 +1,211 @@
-<div align="center">
-  <!-- Minimalist Premium Header -->
-  <kbd>
-    <img src="https://img.shields.io/badge/HISYAM%20NURDIATMOKO-SOLO%20DEVELOPER-black?style=for-the-badge&labelColor=121212&color=D4AF37&letterSpacing=3px" alt="Hisyam Nurdiatmoko Header" />
-  </kbd>
-  <br />
-  <br />
-  <p align="center">
-    <strong>Full-Stack Developer &bull; Informatics Engineering Student</strong>
-  </p>
-  <p align="center" style="color: #888888; font-style: italic;">
-    Crafting clean, production-ready applications with an engineering mindset.
-  </p>
-</div>
+Create a premium, elegant, and highly relevant GitHub Profile README.md for my GitHub profile.
 
----
+GitHub username:
+hisyamnurx
 
-### 🖋️ About Me
+Important:
+Do NOT make it look like a generic luxury developer profile.
+Make it strongly connected to my real product identity: Eclyzer.
 
-An Informatics Engineering student currently focused on full-stack architecture, standalone product development, and system optimization. Combining academic foundations with hands-on development to build robust, scalable platforms. 
+Brand context:
+Eclyzer is my personal experimental digital workspace.
+It is a space for AI tools, modern web projects, learning assistants, coding experiments, computer vision experiments, and clean digital experiences.
+The core feeling should be:
 
-Driven by independence, deep technical curiosity, and an obsession with premium execution—from code quality down to hardware efficiency.
+* experimental
+* modern
+* clean
+* fast
+* comfortable
+* AI-focused
+* student-builder energy
+* premium but not excessive
 
----
+Visual style:
 
-### ⚡ Current Focus
+* Premium dark theme
+* Black, charcoal gray, muted gray
+* Very subtle gold accent
+* Clean terminal-inspired aesthetic
+* Elegant experimental lab vibe
+* Slightly futuristic, but not cyberpunk
+* Not childish
+* Not colorful
+* Not crowded
+* Not too many emojis
+* Not “alay”
+* No excessive GIFs
+* No snake animation unless it looks very clean
+* The result must feel like a polished AI/web experimental workspace profile
 
-*   **Product Engineering:** Refining architecture and core features for modern user experiences.
-*   **Systems & Automation:** Developing practical tools powered by AI to streamline learning and productivity workflows.
-*   **Core Languages:** Deepening capabilities in compiled and concurrent systems using Go and C++.
+Main identity:
+Display name:
+Hisyamnurx
 
----
+Roles:
 
-### ⚜️ Featured Products
+* Full-Stack Developer
+* Informatics Student
+* Solo Developer
+* AI & Modern Web Explorer
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://eclyzer.net">Eclyzer</a></h4>
-      <p align="left">A modern AI-powered learning and coding companion built for students, productivity, and practical problem solving.</p>
-      <!-- Custom Unified Badges -->
-      <img src="https://img.shields.io/badge/Production-Live-D4AF37?style=flat-square&labelColor=121212" alt="Live Status" />
-      <img src="https://img.shields.io/badge/Platform-Web-black?style=flat-square&labelColor=121212" alt="Platform Web" />
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://ai.eclyzer.net">Eclyzer AI</a></h4>
-      <p align="left">An AI chatbot platform engineered for tailored learning, quick coding assistance, deep document support, and workflow automation.</p>
-      <img src="https://img.shields.io/badge/Service-Active-D4AF37?style=flat-square&labelColor=121212" alt="Active Status" />
-      <img src="https://img.shields.io/badge/Core-AI-black?style=flat-square&labelColor=121212" alt="Core AI" />
-    </td>
-  </tr>
-</table>
+Core message:
+I build clean, practical, and experimental digital products focused on AI, modern web, learning, coding, and productivity.
 
----
+Main product:
+Eclyzer
+Website: https://eclyzer.net
+Description:
+A personal experimental workspace for AI, modern web, and digital technology projects.
 
-### 🛠️ Technical Ecosystem
+Main app:
+Eclyzer AI
+Website: https://ai.eclyzer.net
+Description:
+A modern AI workspace that helps with learning, coding, document creation, brainstorming, and creative problem solving through a fast, clean, and comfortable chat experience.
 
-<details open>
-<summary><b>Languages</b></summary>
-<br />
-<img src="https://img.shields.io/badge/JavaScript-121212?style=flat-square&logo=javascript&logoColor=D4AF37" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Java-121212?style=flat-square&logo=openjdk&logoColor=D4AF37" alt="Java" />
-<img src="https://img.shields.io/badge/Python-121212?style=flat-square&logo=python&logoColor=D4AF37" alt="Python" />
-<img src="https://img.shields.io/badge/Go-121212?style=flat-square&logo=go&logoColor=D4AF37" alt="Go" />
-<img src="https://img.shields.io/badge/C++-121212?style=flat-square&logo=cplusplus&logoColor=D4AF37" alt="C++" />
-<img src="https://img.shields.io/badge/C-121212?style=flat-square&logo=c&logoColor=D4AF37" alt="C" />
-<img src="https://img.shields.io/badge/R-121212?style=flat-square&logo=r&logoColor=D4AF37" alt="R" />
-<img src="https://img.shields.io/badge/PHP-121212?style=flat-square&logo=php&logoColor=D4AF37" alt="PHP" />
-<img src="https://img.shields.io/badge/HTML5-121212?style=flat-square&logo=html5&logoColor=D4AF37" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-121212?style=flat-square&logo=css3&logoColor=D4AF37" alt="CSS3" />
-</details>
+Also mention future/experimental concepts subtly:
 
-<details open>
-<summary><b>Frontend & Frameworks</b></summary>
-<br />
-<img src="https://img.shields.io/badge/React-121212?style=flat-square&logo=react&logoColor=D4AF37" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-121212?style=flat-square&logo=nextdotjs&logoColor=D4AF37" alt="Next.js" />
-<img src="https://img.shields.io/badge/Bootstrap-121212?style=flat-square&logo=bootstrap&logoColor=D4AF37" alt="Bootstrap" />
-<img src="https://img.shields.io/badge/Streamlit-121212?style=flat-square&logo=streamlit&logoColor=D4AF37" alt="Streamlit" />
-</details>
+* FingerMath AI: an interactive computer vision project using webcam and hand/finger detection for learning math.
+* Eclyzer Code: a coding assistant / developer workspace concept for coding, debugging, and project exploration.
+  Do not over-highlight them too much. Keep them as experimental projects.
 
-<details open>
-<summary><b>Backend, Databases & Infra</b></summary>
-<br />
-<img src="https://img.shields.io/badge/Node.js-121212?style=flat-square&logo=nodedotjs&logoColor=D4AF37" alt="Node.js" />
-<img src="https://img.shields.io/badge/MySQL-121212?style=flat-square&logo=mysql&logoColor=D4AF37" alt="MySQL" />
-<img src="https://img.shields.io/badge/Apache-121212?style=flat-square&logo=apache&logoColor=D4AF37" alt="Apache" />
-<img src="https://img.shields.io/badge/Laragon-121212?style=flat-square&logo=laragon&logoColor=D4AF37" alt="Laragon" />
-</details>
+Tone:
 
-<details open>
-<summary><b>AI, Machine Learning & Computer Vision</b></summary>
-<br />
-<img src="https://img.shields.io/badge/MediaPipe-121212?style=flat-square&logo=google&logoColor=D4AF37" alt="MediaPipe" />
-<img src="https://img.shields.io/badge/Teachable_Machine-121212?style=flat-square&logo=google&logoColor=D4AF37" alt="Teachable Machine" />
-</details>
+* English as main language
+* A little Indonesian personality is okay
+* Calm, professional, confident, elegant
+* Not arrogant
+* Not too corporate
+* Not too playful
 
-<details open>
-<summary><b>Developer Environments & Tools</b></summary>
-<br />
-<img src="https://img.shields.io/badge/VS_Code-121212?style=flat-square&logo=visualstudiocode&logoColor=D4AF37" alt="VS Code" />
-<img src="https://img.shields.io/badge/Claude_Code-121212?style=flat-square&logo=anthropic&logoColor=D4AF37" alt="Claude Code" />
-<img src="https://img.shields.io/badge/JetBrains-121212?style=flat-square&logo=jetbrains&logoColor=D4AF37" alt="JetBrains" />
-<img src="https://img.shields.io/badge/NetBeans-121212?style=flat-square&logo=apachenetbeans&logoColor=D4AF37" alt="NetBeans" />
-<img src="https://img.shields.io/badge/RStudio-121212?style=flat-square&logo=rstudio&logoColor=D4AF37" alt="RStudio" />
-<img src="https://img.shields.io/badge/Git-121212?style=flat-square&logo=git&logoColor=D4AF37" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-121212?style=flat-square&logo=github&logoColor=D4AF37" alt="GitHub" />
-<img src="https://img.shields.io/badge/Winbox-121212?style=flat-square&logo=mikrotik&logoColor=D4AF37" alt="Winbox" />
-</details>
+Suggested sections:
 
-<details open>
-<summary><b>Design & Planning</b></summary>
-<br />
-<img src="https://img.shields.io/badge/Figma-121212?style=flat-square&logo=figma&logoColor=D4AF37" alt="Figma" />
-<img src="https://img.shields.io/badge/Whimsical-121212?style=flat-square&logo=whimsical&logoColor=D4AF37" alt="Whimsical" />
-<img src="https://img.shields.io/badge/draw.io-121212?style=flat-square&logo=diagramsdotnet&logoColor=D4AF37" alt="draw.io" />
-<img src="https://img.shields.io/badge/Filmora-121212?style=flat-square&logo=wondershare&logoColor=D4AF37" alt="Filmora" />
-</details>
+1. Premium header / hero
+   Use “Hisyamnurx”
+   Include tagline:
+   “AI Experiments. Modern Web. Clean Digital Experiences.”
+   or create a better tagline with the same meaning.
 
----
+2. Short intro
+   Mention that I am a Full-Stack Developer and Informatics Student building Eclyzer as a personal experimental workspace.
 
-### 📊 Repository Diagnostics
+3. Terminal-style identity block
+   Example:
+   eclyzer_terminal_v1.sh
+   STATUS: ACTIVE
+   MODE: Experimental Workspace
+   FOCUS: AI, Modern Web, Learning Tools, Coding Experience
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=hisyamnurx&show_icons=true&theme=dark&bg_color=121212&title_color=D4AF37&icon_color=D4AF37&text_color=aaaaaa&border_color=262626&hide_border=false" alt="Hisyam's GitHub Stats" height="165px" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hisyamnurx&layout=compact&theme=dark&bg_color=121212&title_color=D4AF37&text_color=aaaaaa&border_color=262626&hide_border=false" alt="Hisyam's Top Languages" height="165px" />
-      </td>
-    </tr>
-  </table>
-</div>
+4. What I’m Building
+   Include:
 
----
+   * Eclyzer
+   * Eclyzer AI
+   * FingerMath AI
+   * Eclyzer Code Concept
 
-### 📥 Connect With Me
+5. Core Focus
+   Include:
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/hisyam-nurdiatmoko-b63609327/"><img src="https://img.shields.io/badge/LinkedIn-121212?style=flat-square&logo=linkedin&logoColor=D4AF37" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/hisyamnurx"><img src="https://img.shields.io/badge/Instagram-121212?style=flat-square&logo=instagram&logoColor=D4AF37" alt="Instagram" /></a>
-  <a href="mailto:hisyamnurx@gmail.com"><img src="https://img.shields.io/badge/Email-121212?style=flat-square&logo=gmail&logoColor=D4AF37" alt="Email" /></a>
-  <a href="https://eclyzer.net"><img src="https://img.shields.io/badge/Website-121212?style=flat-square&logo=googlechrome&logoColor=D4AF37" alt="Website" /></a>
-</p>
+   * AI Tools & Experiments
+   * Modern Web Experience
+   * Learning & Exploration
+   * Productivity
+   * Coding Workspace
 
----
+6. Tech Arsenal
+   Organize technologies cleanly into groups.
 
-<p align="center" style="color: #555555; font-size: 11px;">
-  Membangun utilitas, mengoptimalkan baris kode. &bull; Terus bergerak maju.
-</p>
+Languages:
+
+* JavaScript
+* Java
+* Python
+* Go
+* C++
+* C
+* R
+* PHP
+* HTML
+* CSS
+
+Frontend:
+
+* React
+* Next.js
+* Bootstrap
+* Streamlit
+
+Backend & Database:
+
+* Node.js
+* MySQL
+* Apache
+* Laragon
+
+AI / Computer Vision / ML:
+
+* Google MediaPipe
+* Google Teachable Machine
+
+Developer Tools & IDE:
+
+* VS Code
+* Codex
+* Antigravity
+* Claude Code
+* JetBrains
+* NetBeans
+* RStudio
+* Git
+* GitHub
+
+Networking / Utility:
+
+* Winbox
+
+Design / Planning / Creative:
+
+* Figma
+* Whimsical
+* draw.io
+* Wondershare Filmora
+
+7. GitHub Analytics
+   Use elegant dark cards:
+
+* GitHub stats
+* Top languages
+* Optional streak stats only if it still looks clean
+
+8. Connect
+   Include:
+
+* LinkedIn
+* GitHub
+* Website: https://eclyzer.net
+* Eclyzer AI: https://ai.eclyzer.net
+* Instagram
+* Email
+
+Contact placeholders:
+
+* LinkedIn: https://www.linkedin.com/in/your-linkedin
+* Instagram: https://www.instagram.com/your-instagram
+* Email: mailto:your-email@example.com
+
+Design requirements:
+
+* Use Markdown and HTML where useful.
+* Make the README ready to paste into README.md.
+* Keep it premium and structured.
+* Use badges carefully.
+* Use dark/gold badge style.
+* Make the GitHub profile feel like the entrance page to the Eclyzer experimental ecosystem.
+* Avoid generic motivational lines.
+* Avoid making it look like a resume only.
+* It should feel like a developer profile + product lab identity.
+
+Output:
+Generate the full final README.md only.
