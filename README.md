@@ -1,129 +1,77 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050505,25:111111,55:2a2a2a,80:3a3a3a,100:555555&text=Hisyamnurx&fontColor=e7e7e7&fontSize=64&fontAlignY=39&desc=Full-Stack%20Developer%20%E2%80%A2%20Informatics%20Student%20%E2%80%A2%20Digital%20Builder&descColor=a6a6a6&descSize=17&descAlignY=58&animation=fadeIn" alt="Hisyamnurx Header" />
+<!-- Premium Header -->
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0b0b0d,50:151515,100:1f1b12&text=Hisyam%20Nurdiatmoko&fontColor=d6c28a&fontSize=42&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Informatics%20Student%20%7C%20Solo%20Builder&descColor=b8b8b8&descSize=15&animation=fadeIn" alt="Hisyam Nurdiatmoko Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1200&color=A7A7A7&center=true&vCenter=true&width=760&lines=Modern+web.+Clean+systems.+Practical+experiments.;Building+Eclyzer+as+a+personal+digital+workspace.;Simple+workflow.+Fast+experience.+Comfortable+interface." alt="Typing SVG" />
-
-<br />
 <br />
 
 <a href="https://github.com/hisyamnurx">
-  <img src="https://img.shields.io/badge/GitHub-hisyamnurx-1a1a1a?style=for-the-badge&logo=github&logoColor=e6e6e6&labelColor=101010" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-hisyamnurx-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub" />
 </a>
 <a href="https://eclyzer.net">
-  <img src="https://img.shields.io/badge/Eclyzer-eclyzer.net-1a1a1a?style=for-the-badge&logo=vercel&logoColor=c8b47a&labelColor=101010" alt="Eclyzer" />
+  <img src="https://img.shields.io/badge/Eclyzer-eclyzer.net-1a1a1a?style=for-the-badge&logo=vercel&logoColor=d6c28a&labelColor=111111" alt="Eclyzer" />
 </a>
 <a href="https://ai.eclyzer.net">
-  <img src="https://img.shields.io/badge/Eclyzer_AI-ai.eclyzer.net-1a1a1a?style=for-the-badge&logo=vercel&logoColor=c8b47a&labelColor=101010" alt="Eclyzer AI" />
+  <img src="https://img.shields.io/badge/Eclyzer_AI-ai.eclyzer.net-1a1a1a?style=for-the-badge&logo=openai&logoColor=d6c28a&labelColor=111111" alt="Eclyzer AI" />
 </a>
 
 </div>
 
 <br />
 
-<p align="center">
-  <b>Full-Stack Developer</b> · <b>Informatics Student</b> · <b>Solo Digital Builder</b>
-</p>
+<h2 align="center">Elegant Code. Practical Systems. Meaningful Products.</h2>
 
 <p align="center">
-  Building clean, modern, and practical digital products with a focus on interface clarity,
-  lightweight systems, and comfortable user experience.
+  I am a Full-Stack Developer and Informatics Student focused on building clean, useful, and reliable digital products.
   <br />
-  Currently shaping <b>Eclyzer</b> as a personal experimental workspace for web, tools, and digital ideas.
+  Currently building <strong>Eclyzer</strong>, a modern AI-powered learning and coding companion.
 </p>
 
 <br />
 
 ---
 
-## Workspace Console
-
-```bash
-eclyzer_terminal_v1.sh
-
-STATUS      : ACTIVE
-MODE        : PERSONAL EXPERIMENTAL WORKSPACE
-FOCUS       : MODERN WEB / DIGITAL TOOLS / PRODUCT FLOW
-INTERFACE   : CLEAN / FAST / COMFORTABLE
-BUILDER     : hisyamnurx
-```
+## About Me
 
 ```ts
-const hisyamnurx = {
-  role: ["Full-Stack Developer", "Informatics Student"],
-  workspace: "Eclyzer",
-  direction: ["Modern Web", "Digital Products", "Clean Interface", "Practical Systems"],
-  principle: "Make it simple, stable, and comfortable to use.",
-  currentMode: "build → test → refine → ship"
+const hisyam = {
+  name: "Hisyam Nurdiatmoko",
+  username: "hisyamnurx",
+  role: ["Full-Stack Developer", "Informatics Student", "Solo Developer"],
+  focus: ["Web Development", "AI Products", "Clean UI", "Practical Systems"],
+  currentProduct: "Eclyzer",
+  principle: "Simple, stable, elegant, and useful.",
+  note: "Build quietly. Improve consistently. Gas tipis-tipis, hasil maksimal."
 };
 ```
 
+I enjoy turning ideas into real products with a focus on simplicity, maintainability, and user experience.
+For me, great software is not only about features, but also about speed, clarity, and long-term stability.
+
 ---
 
-## Eclyzer
+## Current Focus
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%">
       <h3>Eclyzer</h3>
       <p>
-        A personal experimental workspace for modern web projects, product ideas,
-        interface exploration, and practical digital tools.
-      </p>
-      <p>
-        Built around a simple direction:
-        <br />
-        <b>clean experience, fast workflow, useful output.</b>
+        A modern product identity for learning, productivity, and AI-powered digital tools.
       </p>
       <a href="https://eclyzer.net">
-        <img src="https://img.shields.io/badge/Open-eclyzer.net-202020?style=for-the-badge&logo=vercel&logoColor=c8b47a" alt="Open Eclyzer" />
+        <img src="https://img.shields.io/badge/Visit-eclyzer.net-151515?style=for-the-badge&logo=vercel&logoColor=d6c28a" alt="Eclyzer Website" />
       </a>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%">
       <h3>Eclyzer AI</h3>
       <p>
-        A clean AI-powered chat platform designed for daily productivity, coding support,
-        writing flow, file assistance, and idea exploration.
-      </p>
-      <p>
-        The goal is to keep the experience simple,
-        <br />
-        but make the workflow feel smoother and more useful.
+        An AI chatbot platform for learning, coding assistance, document support, and practical problem solving.
       </p>
       <a href="https://ai.eclyzer.net">
-        <img src="https://img.shields.io/badge/Open-ai.eclyzer.net-202020?style=for-the-badge&logo=vercel&logoColor=c8b47a" alt="Open Eclyzer AI" />
+        <img src="https://img.shields.io/badge/Visit-ai.eclyzer.net-151515?style=for-the-badge&logo=openai&logoColor=d6c28a" alt="Eclyzer AI" />
       </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## Build Direction
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <b>Interface</b>
-      <br />
-      Clean, focused, responsive.
-    </td>
-    <td align="center" width="25%">
-      <b>System</b>
-      <br />
-      Lightweight, stable, maintainable.
-    </td>
-    <td align="center" width="25%">
-      <b>Workflow</b>
-      <br />
-      Fast, simple, comfortable.
-    </td>
-    <td align="center" width="25%">
-      <b>Experiment</b>
-      <br />
-      Build, test, refine.
     </td>
   </tr>
 </table>
@@ -138,70 +86,70 @@ const hisyamnurx = {
   <img src="https://skillicons.dev/icons?i=js,java,python,go,cpp,c,r,php,html,css&theme=dark" alt="Languages" />
 </p>
 
-### Web & Interface
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap&theme=dark" alt="Web Stack" />
-  <img src="https://img.shields.io/badge/Streamlit-202020?style=for-the-badge&logo=streamlit&logoColor=d6d6d6" alt="Streamlit" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap&theme=dark" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Streamlit-151515?style=for-the-badge&logo=streamlit&logoColor=ff4b4b" alt="Streamlit" />
 </p>
 
-### Backend, Database & Local Server
+### Backend, Database & Server
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,apache&theme=dark" alt="Backend Stack" />
-  <img src="https://img.shields.io/badge/Laragon-202020?style=for-the-badge&logo=laragon&logoColor=d6d6d6" alt="Laragon" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,apache&theme=dark" alt="Backend and Database" />
+  <img src="https://img.shields.io/badge/Laragon-151515?style=for-the-badge&logo=laragon&logoColor=d6c28a" alt="Laragon" />
 </p>
 
-### Tools & Workspace
+### AI, Machine Learning & Computer Vision
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github&theme=dark" alt="Development Tools" />
-  <img src="https://img.shields.io/badge/Codex-202020?style=for-the-badge&logo=openai&logoColor=d6d6d6" alt="Codex" />
-  <img src="https://img.shields.io/badge/Antigravity-202020?style=for-the-badge&logo=google&logoColor=d6d6d6" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/Claude_Code-202020?style=for-the-badge&logo=anthropic&logoColor=d6d6d6" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/JetBrains-202020?style=for-the-badge&logo=jetbrains&logoColor=d6d6d6" alt="JetBrains" />
-  <img src="https://img.shields.io/badge/NetBeans-202020?style=for-the-badge&logo=apachenetbeanside&logoColor=d6d6d6" alt="NetBeans" />
-  <img src="https://img.shields.io/badge/RStudio-202020?style=for-the-badge&logo=rstudioide&logoColor=d6d6d6" alt="RStudio" />
+  <img src="https://img.shields.io/badge/Google_MediaPipe-151515?style=for-the-badge&logo=google&logoColor=d6c28a" alt="Google MediaPipe" />
+  <img src="https://img.shields.io/badge/Google_Teachable_Machine-151515?style=for-the-badge&logo=google&logoColor=d6c28a" alt="Google Teachable Machine" />
 </p>
 
-### Vision, Design & Planning
+### Developer Tools & IDE
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Design Tools" />
-  <img src="https://img.shields.io/badge/MediaPipe-202020?style=for-the-badge&logo=google&logoColor=d6d6d6" alt="MediaPipe" />
-  <img src="https://img.shields.io/badge/Teachable_Machine-202020?style=for-the-badge&logo=google&logoColor=d6d6d6" alt="Teachable Machine" />
-  <img src="https://img.shields.io/badge/Whimsical-202020?style=for-the-badge&logoColor=d6d6d6" alt="Whimsical" />
-  <img src="https://img.shields.io/badge/draw.io-202020?style=for-the-badge&logo=diagramsdotnet&logoColor=d6d6d6" alt="draw.io" />
-  <img src="https://img.shields.io/badge/Filmora-202020?style=for-the-badge&logo=wondershare&logoColor=d6d6d6" alt="Wondershare Filmora" />
-  <img src="https://img.shields.io/badge/Winbox-202020?style=for-the-badge&logo=mikrotik&logoColor=d6d6d6" alt="Winbox" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github&theme=dark" alt="Developer Tools" />
+  <img src="https://img.shields.io/badge/Codex-151515?style=for-the-badge&logo=openai&logoColor=d6c28a" alt="Codex" />
+  <img src="https://img.shields.io/badge/Antigravity-151515?style=for-the-badge&logo=google&logoColor=d6c28a" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Claude_Code-151515?style=for-the-badge&logo=anthropic&logoColor=d6c28a" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/NetBeans-151515?style=for-the-badge&logo=apachenetbeanside&logoColor=white" alt="NetBeans" />
+  <img src="https://img.shields.io/badge/RStudio-151515?style=for-the-badge&logo=rstudioide&logoColor=75AADB" alt="RStudio" />
+</p>
+
+### Design, Planning & Creative
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
+  <img src="https://img.shields.io/badge/Whimsical-151515?style=for-the-badge&logoColor=d6c28a" alt="Whimsical" />
+  <img src="https://img.shields.io/badge/draw.io-151515?style=for-the-badge&logo=diagramsdotnet&logoColor=f08705" alt="draw.io" />
+  <img src="https://img.shields.io/badge/Wondershare_Filmora-151515?style=for-the-badge&logo=wondershare&logoColor=00E5CC" alt="Wondershare Filmora" />
+</p>
+
+### Networking & Utility
+
+<p>
+  <img src="https://img.shields.io/badge/Winbox-151515?style=for-the-badge&logo=mikrotik&logoColor=d6c28a" alt="Winbox" />
 </p>
 
 ---
 
-## Current Priorities
-
-```txt
-[01] Improve product feel and interface consistency
-[02] Keep the system lightweight and easy to maintain
-[03] Build clean workflows for daily use
-[04] Explore practical tools without overcomplicating the product
-[05] Turn small experiments into polished digital experiences
-```
-
----
-
-## GitHub Overview
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hisyamnurx&theme=github_dark" alt="Hisyamnurx GitHub Profile Details" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hisyamnurx&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=d6c28a&text_color=c9c9c9&icon_color=d6c28a" alt="Hisyam's GitHub Stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hisyamnurx&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=d6c28a&text_color=c9c9c9" alt="Top Languages" />
+
+</div>
 
 <br />
-<br />
 
-<img height="178" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hisyamnurx&theme=github_dark" alt="Hisyamnurx GitHub Stats" />
+<div align="center">
 
-<img height="178" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hisyamnurx&theme=github_dark" alt="Hisyamnurx Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hisyamnurx&hide_border=true&background=0D0D0D&ring=D6C28A&fire=D6C28A&currStreakLabel=D6C28A&sideLabels=C9C9C9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A" alt="GitHub Streak" />
 
 </div>
 
@@ -212,36 +160,33 @@ const hisyamnurx = {
 <div align="center">
 
 <a href="https://www.linkedin.com/in/your-linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=d6d6d6" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-151515?style=for-the-badge&logo=linkedin&logoColor=d6c28a" alt="LinkedIn" />
 </a>
 <a href="https://github.com/hisyamnurx">
-  <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=d6d6d6" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=github&logoColor=d6c28a" alt="GitHub" />
 </a>
 <a href="https://eclyzer.net">
-  <img src="https://img.shields.io/badge/Eclyzer-1a1a1a?style=for-the-badge&logo=vercel&logoColor=c8b47a" alt="Eclyzer" />
-</a>
-<a href="https://ai.eclyzer.net">
-  <img src="https://img.shields.io/badge/Eclyzer_AI-1a1a1a?style=for-the-badge&logo=vercel&logoColor=c8b47a" alt="Eclyzer AI" />
+  <img src="https://img.shields.io/badge/Website-151515?style=for-the-badge&logo=vercel&logoColor=d6c28a" alt="Website" />
 </a>
 <a href="https://www.instagram.com/your-instagram">
-  <img src="https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=d6d6d6" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-151515?style=for-the-badge&logo=instagram&logoColor=d6c28a" alt="Instagram" />
 </a>
 <a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=d6d6d6" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-151515?style=for-the-badge&logo=gmail&logoColor=d6c28a" alt="Email" />
 </a>
 
 </div>
 
 <br />
 
+<p align="center">
+  <sub>
+    Designed with simplicity, precision, and a quiet premium touch.
+  </sub>
+</p>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:050505,30:2a2a2a,70:5a5a5a,100:050505" alt="Divider" />
-
-<br />
-
-<sub>
-  Clean workflow. Practical products. Quiet improvements.
-</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:d6c28a,50:2b2b2b,100:d6c28a" alt="Footer Divider" />
 
 </div>
