@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050505,30:111111,65:2a2a2a,100:4a4a4a&text=Hisyamnurx&fontColor=e8e8e8&fontSize=64&fontAlignY=39&desc=Full-Stack%20Developer%20%E2%80%A2%20Informatics%20Student%20%E2%80%A2%20Solo%20Digital%20Builder&descColor=a6a6a6&descSize=16&descAlignY=58&animation=fadeIn" alt="Hisyamnurx Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,35:111111,70:2a2a2a,100:4a4a4a&text=Hisyamnurx&fontColor=e8e8e8&fontSize=62&fontAlignY=39&desc=Full-Stack%20Developer%20%E2%80%A2%20Informatics%20Student%20%E2%80%A2%20Solo%20Digital%20Builder&descColor=a6a6a6&descSize=16&descAlignY=58&animation=fadeIn" alt="Hisyamnurx Header" />
 
 <br />
 
@@ -32,8 +32,6 @@
   Currently building <b>Eclyzer</b> and <b>Eclyzer AI</b> as part of my personal digital workspace.
 </p>
 
-<br />
-
 ---
 
 ## About Me
@@ -45,24 +43,19 @@
         Hi, I'm <b>Hisyamnurx</b>, an Informatics Student and Full-Stack Developer who enjoys turning ideas into useful digital products.
       </p>
       <p>
-        My work is focused on modern web development, clean interfaces, practical systems, and products that feel simple but reliable.
+        My work focuses on modern web development, clean interfaces, practical systems, and products that feel simple but reliable.
       </p>
       <p>
-        I like building things with a practical mindset: start small, make it work, refine the experience, then improve the system behind it.
+        I build with a practical mindset: start small, make it work, refine the experience, then improve the system behind it.
       </p>
     </td>
     <td width="38%" valign="top">
       <b>Current Direction</b>
-      <br />
-      <br />
-      <code>Modern Web</code>
-      <br />
-      <code>Digital Products</code>
-      <br />
-      <code>Clean UI</code>
-      <br />
-      <code>Practical Systems</code>
-      <br />
+      <br /><br />
+      <code>Modern Web</code><br />
+      <code>Digital Products</code><br />
+      <code>Clean UI</code><br />
+      <code>Practical Systems</code><br />
       <code>Solo Development</code>
     </td>
   </tr>
