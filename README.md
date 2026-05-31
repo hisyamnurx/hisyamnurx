@@ -2,7 +2,7 @@
 
 <!-- Premium Header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,35:111111,70:2a2a2a,100:4a4a4a&text=Hisyam%20Nurdiatmoko&fontColor=e8e8e8&fontSize=42&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Informatics%20Student%20%7C%20Solo%20Builder&descColor=a6a6a6&descSize=15&animation=fadeIn" alt="Hisyam Nurdiatmoko Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,35:111111,70:2a2a2a,100:4a4a4a&text=Hisyam%20Nurdiatmoko&fontColor=e8e8e8&fontSize=42&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Informatics%20Student%20%7C%20Solo%20Builder&descColor=a6a6a6&descSize=15&animation=fadeIn" alt="Hisyamnurx Header" />
 
 <br />
 
@@ -96,8 +96,15 @@ For me, great software is not only about features, but also about speed, clarity
 ### Backend, Database & Server
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,postgresql,docker,flask,spring,nginx,apache&theme=dark" alt="Backend, Database and Server" />
+  <img src="https://img.shields.io/badge/Node.js-202020?style=for-the-badge&logo=nodedotjs&logoColor=bdbdbd" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MySQL-202020?style=for-the-badge&logo=mysql&logoColor=bdbdbd" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-202020?style=for-the-badge&logo=postgresql&logoColor=bdbdbd" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MariaDB-202020?style=for-the-badge&logo=mariadb&logoColor=bdbdbd" alt="MariaDB" />
+  <img src="https://img.shields.io/badge/Docker-202020?style=for-the-badge&logo=docker&logoColor=bdbdbd" alt="Docker" />
+  <img src="https://img.shields.io/badge/Flask-202020?style=for-the-badge&logo=flask&logoColor=bdbdbd" alt="Flask" />
+  <img src="https://img.shields.io/badge/Spring_Boot-202020?style=for-the-badge&logo=springboot&logoColor=bdbdbd" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Nginx-202020?style=for-the-badge&logo=nginx&logoColor=bdbdbd" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Apache-202020?style=for-the-badge&logo=apache&logoColor=bdbdbd" alt="Apache" />
   <img src="https://img.shields.io/badge/Laragon-202020?style=for-the-badge&logo=laragon&logoColor=bdbdbd" alt="Laragon" />
 </p>
 
@@ -111,7 +118,13 @@ For me, great software is not only about features, but also about speed, clarity
 ### Developer Tools & IDE
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,bash,linux,postman&theme=dark" alt="Developer Tools" />
+  <img src="https://img.shields.io/badge/VS_Code-202020?style=for-the-badge&logo=visualstudiocode&logoColor=bdbdbd" alt="VS Code" />
+  <img src="https://img.shields.io/badge/JetBrains-202020?style=for-the-badge&logo=jetbrains&logoColor=bdbdbd" alt="JetBrains" />
+  <img src="https://img.shields.io/badge/Git-202020?style=for-the-badge&logo=git&logoColor=bdbdbd" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-202020?style=for-the-badge&logo=github&logoColor=bdbdbd" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Bash-202020?style=for-the-badge&logo=gnubash&logoColor=bdbdbd" alt="Bash" />
+  <img src="https://img.shields.io/badge/Linux-202020?style=for-the-badge&logo=linux&logoColor=bdbdbd" alt="Linux" />
+  <img src="https://img.shields.io/badge/Postman-202020?style=for-the-badge&logo=postman&logoColor=bdbdbd" alt="Postman" />
   <img src="https://img.shields.io/badge/Codex-202020?style=for-the-badge&logo=openai&logoColor=bdbdbd" alt="Codex" />
   <img src="https://img.shields.io/badge/Antigravity-202020?style=for-the-badge&logo=google&logoColor=bdbdbd" alt="Antigravity" />
   <img src="https://img.shields.io/badge/Claude_Code-202020?style=for-the-badge&logo=anthropic&logoColor=bdbdbd" alt="Claude Code" />
@@ -122,7 +135,7 @@ For me, great software is not only about features, but also about speed, clarity
 ### Design, Planning & Creative
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" />
+  <img src="https://img.shields.io/badge/Figma-202020?style=for-the-badge&logo=figma&logoColor=bdbdbd" alt="Figma" />
   <img src="https://img.shields.io/badge/Whimsical-202020?style=for-the-badge&logoColor=bdbdbd" alt="Whimsical" />
   <img src="https://img.shields.io/badge/draw.io-202020?style=for-the-badge&logo=diagramsdotnet&logoColor=bdbdbd" alt="draw.io" />
   <img src="https://img.shields.io/badge/Wondershare_Filmora-202020?style=for-the-badge&logo=wondershare&logoColor=bdbdbd" alt="Wondershare Filmora" />
