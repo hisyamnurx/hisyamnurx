@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050505,25:111111,55:2a2a2a,80:3a3a3a,100:6b6250&text=Hisyamnurx&fontColor=e7e7e7&fontSize=64&fontAlignY=39&desc=Full-Stack%20Developer%20%E2%80%A2%20Informatics%20Student%20%E2%80%A2%20Digital%20Builder&descColor=a6a6a6&descSize=17&descAlignY=58&animation=fadeIn" alt="Hisyamnurx Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050505,25:111111,55:2a2a2a,80:3a3a3a,100:555555&text=Hisyamnurx&fontColor=e7e7e7&fontSize=64&fontAlignY=39&desc=Full-Stack%20Developer%20%E2%80%A2%20Informatics%20Student%20%E2%80%A2%20Digital%20Builder&descColor=a6a6a6&descSize=17&descAlignY=58&animation=fadeIn" alt="Hisyamnurx Header" />
 
 <br />
 
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Eclyzer-eclyzer.net-1a1a1a?style=for-the-badge&logo=vercel&logoColor=c8b47a&labelColor=101010" alt="Eclyzer" />
 </a>
 <a href="https://ai.eclyzer.net">
-  <img src="https://img.shields.io/badge/Workspace-ai.eclyzer.net-1a1a1a?style=for-the-badge&logo=vercel&logoColor=c8b47a&labelColor=101010" alt="Eclyzer Workspace" />
+  <img src="https://img.shields.io/badge/Eclyzer_AI-ai.eclyzer.net-1a1a1a?style=for-the-badge&logo=vercel&logoColor=c8b47a&labelColor=101010" alt="Eclyzer AI" />
 </a>
 
 </div>
@@ -82,18 +82,18 @@ const hisyamnurx = {
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>Eclyzer Workspace</h3>
+      <h3>Eclyzer AI</h3>
       <p>
-        A clean interactive workspace designed for daily productivity, coding support,
+        A clean AI-powered chat platform designed for daily productivity, coding support,
         writing flow, file assistance, and idea exploration.
       </p>
       <p>
         The goal is to keep the experience simple,
         <br />
-        but make the workflow feel smoother.
+        but make the workflow feel smoother and more useful.
       </p>
       <a href="https://ai.eclyzer.net">
-        <img src="https://img.shields.io/badge/Open-ai.eclyzer.net-202020?style=for-the-badge&logo=vercel&logoColor=c8b47a" alt="Open Eclyzer Workspace" />
+        <img src="https://img.shields.io/badge/Open-ai.eclyzer.net-202020?style=for-the-badge&logo=vercel&logoColor=c8b47a" alt="Open Eclyzer AI" />
       </a>
     </td>
   </tr>
@@ -159,6 +159,7 @@ const hisyamnurx = {
   <img src="https://img.shields.io/badge/Codex-202020?style=for-the-badge&logo=openai&logoColor=d6d6d6" alt="Codex" />
   <img src="https://img.shields.io/badge/Antigravity-202020?style=for-the-badge&logo=google&logoColor=d6d6d6" alt="Antigravity" />
   <img src="https://img.shields.io/badge/Claude_Code-202020?style=for-the-badge&logo=anthropic&logoColor=d6d6d6" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/JetBrains-202020?style=for-the-badge&logo=jetbrains&logoColor=d6d6d6" alt="JetBrains" />
   <img src="https://img.shields.io/badge/NetBeans-202020?style=for-the-badge&logo=apachenetbeanside&logoColor=d6d6d6" alt="NetBeans" />
   <img src="https://img.shields.io/badge/RStudio-202020?style=for-the-badge&logo=rstudioide&logoColor=d6d6d6" alt="RStudio" />
 </p>
@@ -193,17 +194,14 @@ const hisyamnurx = {
 
 <div align="center">
 
-<img height="178" src="https://github-readme-stats.vercel.app/api?username=hisyamnurx&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=c8b47a&text_color=cfcfcf&icon_color=9a9a9a&rank_icon=github" alt="Hisyamnurx GitHub Stats" />
-
-<img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hisyamnurx&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=c8b47a&text_color=cfcfcf" alt="Hisyamnurx Top Languages" />
-
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hisyamnurx&theme=github_dark" alt="Hisyamnurx GitHub Profile Details" />
 
 <br />
+<br />
 
-<div align="center">
+<img height="178" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hisyamnurx&theme=github_dark" alt="Hisyamnurx GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hisyamnurx&hide_border=true&background=0D0D0D&ring=9A9A9A&fire=C8B47A&currStreakLabel=C8B47A&sideLabels=CFCFCF&currStreakNum=F2F2F2&sideNums=F2F2F2&dates=7A7A7A" alt="Hisyamnurx GitHub Streak" />
+<img height="178" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hisyamnurx&theme=github_dark" alt="Hisyamnurx Top Languages" />
 
 </div>
 
@@ -223,7 +221,7 @@ const hisyamnurx = {
   <img src="https://img.shields.io/badge/Eclyzer-1a1a1a?style=for-the-badge&logo=vercel&logoColor=c8b47a" alt="Eclyzer" />
 </a>
 <a href="https://ai.eclyzer.net">
-  <img src="https://img.shields.io/badge/Workspace-1a1a1a?style=for-the-badge&logo=vercel&logoColor=c8b47a" alt="Eclyzer Workspace" />
+  <img src="https://img.shields.io/badge/Eclyzer_AI-1a1a1a?style=for-the-badge&logo=vercel&logoColor=c8b47a" alt="Eclyzer AI" />
 </a>
 <a href="https://www.instagram.com/your-instagram">
   <img src="https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=d6d6d6" alt="Instagram" />
