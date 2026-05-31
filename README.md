@@ -1,24 +1,272 @@
-<h1 align="center">Hi, I'm Hisyam</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050505,30:111111,65:2a2a2a,100:4a4a4a&text=Hisyamnurx&fontColor=e8e8e8&fontSize=64&fontAlignY=39&desc=Full-Stack%20Developer%20%E2%80%A2%20Informatics%20Student%20%E2%80%A2%20Solo%20Digital%20Builder&descColor=a6a6a6&descSize=16&descAlignY=58&animation=fadeIn" alt="Hisyamnurx Header" />
+
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1200&color=A7A7A7&center=true&vCenter=true&width=760&lines=Clean+interfaces.+Practical+systems.+Modern+web.;Building+Eclyzer+as+a+personal+digital+workspace.;Simple+workflow.+Stable+system.+Comfortable+experience." alt="Typing SVG" />
+
+<br />
+<br />
+
+<a href="https://github.com/hisyamnurx">
+  <img src="https://img.shields.io/badge/GitHub-hisyamnurx-202020?style=for-the-badge&labelColor=111111&color=202020" alt="GitHub" />
+</a>
+<a href="https://eclyzer.net">
+  <img src="https://img.shields.io/badge/Eclyzer-eclyzer.net-202020?style=for-the-badge&labelColor=111111&color=202020" alt="Eclyzer" />
+</a>
+<a href="https://ai.eclyzer.net">
+  <img src="https://img.shields.io/badge/Eclyzer_AI-ai.eclyzer.net-202020?style=for-the-badge&labelColor=111111&color=202020" alt="Eclyzer AI" />
+</a>
+
+</div>
+
+<br />
+
 <h3 align="center">Full-Stack Developer · Informatics Student · Solo Digital Builder</h3>
 
-- I’m currently building on [Eclyzer](eclyzer.net)
-
-- All of my projects are available at [eclyzer.net](eclyzer.net)
-
-- About me **I build clean, modern, and practical digital products with a focus on interface clarity, lightweight systems, and comfortable user experience.**
-
-- How to reach me **hisyamnurx@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/hisyamnurx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hisyamnurx" height="30" width="40" /></a>
+<p align="center">
+  I build clean, modern, and practical digital products with a focus on interface clarity,
+  lightweight systems, and comfortable user experience.
+  <br />
+  Currently building <b>Eclyzer</b> and <b>Eclyzer AI</b> as part of my personal digital workspace.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hisyamnurx&show_icons=true&locale=en&layout=compact" alt="hisyamnurx" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hisyamnurx&show_icons=true&locale=en" alt="hisyamnurx" /></p>
+## About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hisyamnurx&" alt="hisyamnurx" /></p>
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <p>
+        Hi, I'm <b>Hisyamnurx</b>, an Informatics Student and Full-Stack Developer who enjoys turning ideas into useful digital products.
+      </p>
+      <p>
+        My work is focused on modern web development, clean interfaces, practical systems, and products that feel simple but reliable.
+      </p>
+      <p>
+        I like building things with a practical mindset: start small, make it work, refine the experience, then improve the system behind it.
+      </p>
+    </td>
+    <td width="38%" valign="top">
+      <b>Current Direction</b>
+      <br />
+      <br />
+      <code>Modern Web</code>
+      <br />
+      <code>Digital Products</code>
+      <br />
+      <code>Clean UI</code>
+      <br />
+      <code>Practical Systems</code>
+      <br />
+      <code>Solo Development</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Featured Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Eclyzer</h3>
+      <p>
+        A personal digital workspace for modern web projects, product ideas,
+        interface exploration, and practical tools.
+      </p>
+      <p>
+        Built around a simple direction:
+        <br />
+        <b>clean experience, fast workflow, useful output.</b>
+      </p>
+      <a href="https://eclyzer.net">
+        <img src="https://img.shields.io/badge/Open-eclyzer.net-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="Open Eclyzer" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Eclyzer AI</h3>
+      <p>
+        A clean AI-powered chat platform designed for productivity, coding support,
+        writing flow, file assistance, and idea exploration.
+      </p>
+      <p>
+        The goal is to keep the experience simple,
+        <br />
+        but make daily workflow smoother and more useful.
+      </p>
+      <a href="https://ai.eclyzer.net">
+        <img src="https://img.shields.io/badge/Open-ai.eclyzer.net-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="Open Eclyzer AI" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Build Direction
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <b>Interface</b>
+      <br />
+      Clean, focused, responsive.
+    </td>
+    <td align="center" width="25%">
+      <b>System</b>
+      <br />
+      Lightweight, stable, maintainable.
+    </td>
+    <td align="center" width="25%">
+      <b>Workflow</b>
+      <br />
+      Fast, simple, comfortable.
+    </td>
+    <td align="center" width="25%">
+      <b>Experiment</b>
+      <br />
+      Build, test, refine.
+    </td>
+  </tr>
+</table>
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="Go" />
+  <img src="https://img.shields.io/badge/C%2B%2B-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="C++" />
+  <img src="https://img.shields.io/badge/C-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="C" />
+  <img src="https://img.shields.io/badge/R-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="R" />
+  <img src="https://img.shields.io/badge/PHP-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="PHP" />
+</p>
+
+### Web & Interface
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Bootstrap-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Streamlit-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="Streamlit" />
+</p>
+
+### Backend, Database & Server
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MySQL-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Apache-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="Apache" />
+  <img src="https://img.shields.io/badge/Laragon-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="Laragon" />
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="VS Code" />
+  <img src="https://img.shields.io/badge/JetBrains-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="JetBrains" />
+  <img src="https://img.shields.io/badge/NetBeans-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="NetBeans" />
+  <img src="https://img.shields.io/badge/RStudio-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="RStudio" />
+  <img src="https://img.shields.io/badge/Git-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="GitHub" />
+</p>
+
+### Developer Partners
+
+<p>
+  <img src="https://img.shields.io/badge/Codex-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="Codex" />
+  <img src="https://img.shields.io/badge/Antigravity-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Claude_Code-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="Claude Code" />
+</p>
+
+### Vision, Design & Planning
+
+<p>
+  <img src="https://img.shields.io/badge/MediaPipe-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="MediaPipe" />
+  <img src="https://img.shields.io/badge/Teachable_Machine-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="Teachable Machine" />
+  <img src="https://img.shields.io/badge/Figma-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="Figma" />
+  <img src="https://img.shields.io/badge/Whimsical-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="Whimsical" />
+  <img src="https://img.shields.io/badge/draw.io-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="draw.io" />
+  <img src="https://img.shields.io/badge/Filmora-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="Wondershare Filmora" />
+  <img src="https://img.shields.io/badge/Winbox-2a2a2a?style=for-the-badge&labelColor=151515&color=2a2a2a" alt="Winbox" />
+</p>
+
+---
+
+## Current Priorities
+
+```txt
+[01] Improve product feel and interface consistency
+[02] Keep the system lightweight and easy to maintain
+[03] Build clean workflows for daily use
+[04] Explore practical tools without overcomplicating the product
+[05] Turn small experiments into polished digital experiences
+```
+
+---
+
+## GitHub Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hisyamnurx&theme=github_dark" alt="Hisyamnurx GitHub Profile Details" />
+
+<br />
+<br />
+
+<img height="178" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hisyamnurx&theme=github_dark" alt="Hisyamnurx GitHub Stats" />
+
+<img height="178" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hisyamnurx&theme=github_dark" alt="Hisyamnurx Top Languages" />
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://github.com/hisyamnurx">
+  <img src="https://img.shields.io/badge/GitHub-hisyamnurx-202020?style=for-the-badge&labelColor=151515&color=202020" alt="GitHub" />
+</a>
+<a href="https://eclyzer.net">
+  <img src="https://img.shields.io/badge/Website-eclyzer.net-202020?style=for-the-badge&labelColor=151515&color=202020" alt="Website" />
+</a>
+<a href="https://ai.eclyzer.net">
+  <img src="https://img.shields.io/badge/Eclyzer_AI-ai.eclyzer.net-202020?style=for-the-badge&labelColor=151515&color=202020" alt="Eclyzer AI" />
+</a>
+<a href="https://www.instagram.com/hisyamnurx">
+  <img src="https://img.shields.io/badge/Instagram-hisyamnurx-202020?style=for-the-badge&labelColor=151515&color=202020" alt="Instagram" />
+</a>
+<a href="mailto:hisyamnurx@gmail.com">
+  <img src="https://img.shields.io/badge/Email-hisyamnurx@gmail.com-202020?style=for-the-badge&labelColor=151515&color=202020" alt="Email" />
+</a>
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:050505,30:2a2a2a,70:5a5a5a,100:050505" alt="Divider" />
+
+<br />
+
+<sub>
+  Clean workflow. Practical products. Quiet improvements.
+</sub>
+
+</div>
