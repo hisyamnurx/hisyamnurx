@@ -2,7 +2,7 @@
 
 <!-- Premium Header -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,35:111111,70:2a2a2a,100:4a4a4a&text=Hisyam%20Nurdiatmoko&fontColor=e8e8e8&fontSize=42&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Informatics%20Student%20%7C%20Solo%20Builder&descColor=a6a6a6&descSize=15&animation=fadeIn" alt="Hisyam Nurdiatmoko Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,35:111111,70:2a2a2a,100:4a4a4a&text=Hisyam%20Nurdiatmoko&fontColor=e8e8e8&fontSize=42&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Informatics%20Student%20%7C%20Solo%20Builder&descColor=a6a6a6&descSize=15&animation=fadeIn" alt="Hisyamnurx Header" />
 
 <br />
 
@@ -20,12 +20,12 @@
 
 <br />
 
-<h2 align="center">Elegant Code. Practical Systems. Meaningful Products.</h2>
+<h2 align="center">Build. Experiment. Explore.</h2>
 
 <p align="center">
-  I am a Full-Stack Developer and Informatics Student focused on building clean, useful, and reliable digital products.
+  I'm a full-stack developer and computer science student focused on building clean, useful, and reliable digital products.
   <br />
-  Currently building <strong>Eclyzer</strong>, a modern AI-powered learning and coding companion.
+  I'm currently building <strong>Eclyzer</strong>, a digital experimentation space featuring AI projects, the modern web, and a variety of evolving technology ideas.
 </p>
 
 <br />
@@ -140,17 +140,14 @@ For me, great software is not only about features, but also about speed, clarity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hisyamnurx&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=cfcfcf&text_color=a8a8a8&icon_color=bdbdbd" alt="Hisyam's GitHub Stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hisyamnurx&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=cfcfcf&text_color=a8a8a8" alt="Top Languages" />
-
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hisyamnurx&theme=github_dark" alt="Hisyamnurx GitHub Profile Details" />
 
 <br />
+<br />
 
-<div align="center">
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hisyamnurx&theme=github_dark" alt="Hisyamnurx GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hisyamnurx&hide_border=true&background=0D0D0D&ring=BDBDBD&fire=8A8A8A&currStreakLabel=CFCFCF&sideLabels=A8A8A8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A" alt="GitHub Streak" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hisyamnurx&theme=github_dark" alt="Hisyamnurx Top Languages" />
 
 </div>
 
@@ -160,20 +157,11 @@ For me, great software is not only about features, but also about speed, clarity
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/your-linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-202020?style=for-the-badge&logo=linkedin&logoColor=bdbdbd" alt="LinkedIn" />
-</a>
 <a href="https://github.com/hisyamnurx">
-  <img src="https://img.shields.io/badge/GitHub-202020?style=for-the-badge&logo=github&logoColor=bdbdbd" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-hisyamnurx-202020?style=for-the-badge&logo=github&logoColor=bdbdbd" alt="GitHub" />
 </a>
 <a href="https://eclyzer.net">
-  <img src="https://img.shields.io/badge/Website-202020?style=for-the-badge&logo=vercel&logoColor=bdbdbd" alt="Website" />
-</a>
-<a href="https://www.instagram.com/your-instagram">
-  <img src="https://img.shields.io/badge/Instagram-202020?style=for-the-badge&logo=instagram&logoColor=bdbdbd" alt="Instagram" />
-</a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-202020?style=for-the-badge&logo=gmail&logoColor=bdbdbd" alt="Email" />
+  <img src="https://img.shields.io/badge/Website-eclyzer.net-202020?style=for-the-badge&logo=vercel&logoColor=bdbdbd" alt="Website" />
 </a>
 
 </div>
