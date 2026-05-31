@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=245&color=0:050505,35:0d0d0d,70:171717,100:b89b4d&text=Hisyamnurx&fontColor=f5f1e6&fontSize=64&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Informatics%20Student%20%E2%80%A2%20Digital%20Builder&descColor=b89b4d&descSize=17&descAlignY=58&animation=fadeIn" alt="Hisyamnurx Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050505,25:111111,55:2a2a2a,80:3a3a3a,100:6b6250&text=Hisyamnurx&fontColor=e7e7e7&fontSize=64&fontAlignY=39&desc=Full-Stack%20Developer%20%E2%80%A2%20Informatics%20Student%20%E2%80%A2%20Digital%20Builder&descColor=a6a6a6&descSize=17&descAlignY=58&animation=fadeIn" alt="Hisyamnurx Header" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1200&color=B89B4D&center=true&vCenter=true&width=760&lines=Clean+interfaces.+Practical+systems.+Modern+experiments.;Building+Eclyzer+as+a+personal+digital+workspace.;Simple+workflow.+Fast+experience.+Useful+products." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1200&color=A7A7A7&center=true&vCenter=true&width=760&lines=Modern+web.+Clean+systems.+Practical+experiments.;Building+Eclyzer+as+a+personal+digital+workspace.;Simple+workflow.+Fast+experience.+Comfortable+interface." alt="Typing SVG" />
 
 <br />
 <br />
 
 <a href="https://github.com/hisyamnurx">
-  <img src="https://img.shields.io/badge/GitHub-hisyamnurx-0b0b0b?style=for-the-badge&logo=github&logoColor=f5f5f5&labelColor=151515" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-hisyamnurx-1a1a1a?style=for-the-badge&logo=github&logoColor=e6e6e6&labelColor=101010" alt="GitHub" />
 </a>
 <a href="https://eclyzer.net">
-  <img src="https://img.shields.io/badge/Eclyzer-eclyzer.net-0b0b0b?style=for-the-badge&logo=vercel&logoColor=b89b4d&labelColor=151515" alt="Eclyzer" />
+  <img src="https://img.shields.io/badge/Eclyzer-eclyzer.net-1a1a1a?style=for-the-badge&logo=vercel&logoColor=c8b47a&labelColor=101010" alt="Eclyzer" />
 </a>
 <a href="https://ai.eclyzer.net">
-  <img src="https://img.shields.io/badge/Workspace-ai.eclyzer.net-0b0b0b?style=for-the-badge&logo=openai&logoColor=b89b4d&labelColor=151515" alt="Eclyzer Workspace" />
+  <img src="https://img.shields.io/badge/Workspace-ai.eclyzer.net-1a1a1a?style=for-the-badge&logo=vercel&logoColor=c8b47a&labelColor=101010" alt="Eclyzer Workspace" />
 </a>
 
 </div>
@@ -28,57 +28,57 @@
 </p>
 
 <p align="center">
-  I build clean, practical, and modern digital products with a focus on interface clarity,
-  stable systems, and comfortable user experience.
+  Building clean, modern, and practical digital products with a focus on interface clarity,
+  lightweight systems, and comfortable user experience.
   <br />
-  Currently developing <b>Eclyzer</b> as a personal experimental workspace for web, tools, and digital ideas.
+  Currently shaping <b>Eclyzer</b> as a personal experimental workspace for web, tools, and digital ideas.
 </p>
 
 <br />
 
 ---
 
-## Console
+## Workspace Console
 
 ```bash
 eclyzer_terminal_v1.sh
 
-STATUS       : ACTIVE
-MODE         : PERSONAL WORKSPACE
-FOCUS        : WEB MODERNIZATION / TOOLS / SYSTEM FLOW
-STYLE        : CLEAN / FAST / COMFORTABLE
-BUILDER      : hisyamnurx
+STATUS      : ACTIVE
+MODE        : PERSONAL EXPERIMENTAL WORKSPACE
+FOCUS       : MODERN WEB / DIGITAL TOOLS / PRODUCT FLOW
+INTERFACE   : CLEAN / FAST / COMFORTABLE
+BUILDER     : hisyamnurx
 ```
 
 ```ts
 const hisyamnurx = {
   role: ["Full-Stack Developer", "Informatics Student"],
   workspace: "Eclyzer",
-  direction: ["Modern Web", "Digital Tools", "Clean UI", "Practical Systems"],
-  philosophy: "Build something simple, useful, and comfortable to use.",
-  currentMode: "shipping, refining, experimenting"
+  direction: ["Modern Web", "Digital Products", "Clean Interface", "Practical Systems"],
+  principle: "Make it simple, stable, and comfortable to use.",
+  currentMode: "build → test → refine → ship"
 };
 ```
 
 ---
 
-## What I’m Building
+## Eclyzer
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>Eclyzer</h3>
       <p>
-        A personal digital workspace for modern web experiments, product ideas,
-        interface exploration, and practical tools.
+        A personal experimental workspace for modern web projects, product ideas,
+        interface exploration, and practical digital tools.
       </p>
       <p>
-        Built with a simple principle:
+        Built around a simple direction:
         <br />
         <b>clean experience, fast workflow, useful output.</b>
       </p>
       <a href="https://eclyzer.net">
-        <img src="https://img.shields.io/badge/Open-eclyzer.net-111111?style=for-the-badge&logo=vercel&logoColor=b89b4d" alt="Open Eclyzer" />
+        <img src="https://img.shields.io/badge/Open-eclyzer.net-202020?style=for-the-badge&logo=vercel&logoColor=c8b47a" alt="Open Eclyzer" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -88,12 +88,12 @@ const hisyamnurx = {
         writing flow, file assistance, and idea exploration.
       </p>
       <p>
-        The goal is not to make things look complicated,
+        The goal is to keep the experience simple,
         <br />
-        but to make the workflow feel smoother.
+        but make the workflow feel smoother.
       </p>
       <a href="https://ai.eclyzer.net">
-        <img src="https://img.shields.io/badge/Open-ai.eclyzer.net-111111?style=for-the-badge&logo=vercel&logoColor=b89b4d" alt="Open Eclyzer Workspace" />
+        <img src="https://img.shields.io/badge/Open-ai.eclyzer.net-202020?style=for-the-badge&logo=vercel&logoColor=c8b47a" alt="Open Eclyzer Workspace" />
       </a>
     </td>
   </tr>
@@ -142,37 +142,37 @@ const hisyamnurx = {
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap&theme=dark" alt="Web Stack" />
-  <img src="https://img.shields.io/badge/Streamlit-111111?style=for-the-badge&logo=streamlit&logoColor=ff4b4b" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Streamlit-202020?style=for-the-badge&logo=streamlit&logoColor=d6d6d6" alt="Streamlit" />
 </p>
 
 ### Backend, Database & Local Server
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,mysql,apache&theme=dark" alt="Backend Stack" />
-  <img src="https://img.shields.io/badge/Laragon-111111?style=for-the-badge&logo=laragon&logoColor=b89b4d" alt="Laragon" />
+  <img src="https://img.shields.io/badge/Laragon-202020?style=for-the-badge&logo=laragon&logoColor=d6d6d6" alt="Laragon" />
 </p>
 
 ### Tools & Workspace
 
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,idea,git,github&theme=dark" alt="Development Tools" />
-  <img src="https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=b89b4d" alt="Codex" />
-  <img src="https://img.shields.io/badge/Antigravity-111111?style=for-the-badge&logo=google&logoColor=b89b4d" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/Claude_Code-111111?style=for-the-badge&logo=anthropic&logoColor=b89b4d" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/NetBeans-111111?style=for-the-badge&logo=apachenetbeanside&logoColor=f5f5f5" alt="NetBeans" />
-  <img src="https://img.shields.io/badge/RStudio-111111?style=for-the-badge&logo=rstudioide&logoColor=75AADB" alt="RStudio" />
+  <img src="https://img.shields.io/badge/Codex-202020?style=for-the-badge&logo=openai&logoColor=d6d6d6" alt="Codex" />
+  <img src="https://img.shields.io/badge/Antigravity-202020?style=for-the-badge&logo=google&logoColor=d6d6d6" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Claude_Code-202020?style=for-the-badge&logo=anthropic&logoColor=d6d6d6" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/NetBeans-202020?style=for-the-badge&logo=apachenetbeanside&logoColor=d6d6d6" alt="NetBeans" />
+  <img src="https://img.shields.io/badge/RStudio-202020?style=for-the-badge&logo=rstudioide&logoColor=d6d6d6" alt="RStudio" />
 </p>
 
 ### Vision, Design & Planning
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Design Tools" />
-  <img src="https://img.shields.io/badge/MediaPipe-111111?style=for-the-badge&logo=google&logoColor=b89b4d" alt="MediaPipe" />
-  <img src="https://img.shields.io/badge/Teachable_Machine-111111?style=for-the-badge&logo=google&logoColor=b89b4d" alt="Teachable Machine" />
-  <img src="https://img.shields.io/badge/Whimsical-111111?style=for-the-badge&logoColor=b89b4d" alt="Whimsical" />
-  <img src="https://img.shields.io/badge/draw.io-111111?style=for-the-badge&logo=diagramsdotnet&logoColor=b89b4d" alt="draw.io" />
-  <img src="https://img.shields.io/badge/Filmora-111111?style=for-the-badge&logo=wondershare&logoColor=b89b4d" alt="Wondershare Filmora" />
-  <img src="https://img.shields.io/badge/Winbox-111111?style=for-the-badge&logo=mikrotik&logoColor=b89b4d" alt="Winbox" />
+  <img src="https://img.shields.io/badge/MediaPipe-202020?style=for-the-badge&logo=google&logoColor=d6d6d6" alt="MediaPipe" />
+  <img src="https://img.shields.io/badge/Teachable_Machine-202020?style=for-the-badge&logo=google&logoColor=d6d6d6" alt="Teachable Machine" />
+  <img src="https://img.shields.io/badge/Whimsical-202020?style=for-the-badge&logoColor=d6d6d6" alt="Whimsical" />
+  <img src="https://img.shields.io/badge/draw.io-202020?style=for-the-badge&logo=diagramsdotnet&logoColor=d6d6d6" alt="draw.io" />
+  <img src="https://img.shields.io/badge/Filmora-202020?style=for-the-badge&logo=wondershare&logoColor=d6d6d6" alt="Wondershare Filmora" />
+  <img src="https://img.shields.io/badge/Winbox-202020?style=for-the-badge&logo=mikrotik&logoColor=d6d6d6" alt="Winbox" />
 </p>
 
 ---
@@ -193,9 +193,9 @@ const hisyamnurx = {
 
 <div align="center">
 
-<img height="178" src="https://github-readme-stats.vercel.app/api?username=hisyamnurx&show_icons=true&hide_border=true&bg_color=050505&title_color=b89b4d&text_color=d8d8d8&icon_color=b89b4d&rank_icon=github" alt="Hisyamnurx GitHub Stats" />
+<img height="178" src="https://github-readme-stats.vercel.app/api?username=hisyamnurx&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=c8b47a&text_color=cfcfcf&icon_color=9a9a9a&rank_icon=github" alt="Hisyamnurx GitHub Stats" />
 
-<img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hisyamnurx&layout=compact&hide_border=true&bg_color=050505&title_color=b89b4d&text_color=d8d8d8" alt="Hisyamnurx Top Languages" />
+<img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hisyamnurx&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=c8b47a&text_color=cfcfcf" alt="Hisyamnurx Top Languages" />
 
 </div>
 
@@ -203,7 +203,7 @@ const hisyamnurx = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=hisyamnurx&hide_border=true&background=050505&ring=B89B4D&fire=B89B4D&currStreakLabel=B89B4D&sideLabels=D8D8D8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A" alt="Hisyamnurx GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=hisyamnurx&hide_border=true&background=0D0D0D&ring=9A9A9A&fire=C8B47A&currStreakLabel=C8B47A&sideLabels=CFCFCF&currStreakNum=F2F2F2&sideNums=F2F2F2&dates=7A7A7A" alt="Hisyamnurx GitHub Streak" />
 
 </div>
 
@@ -214,22 +214,22 @@ const hisyamnurx = {
 <div align="center">
 
 <a href="https://www.linkedin.com/in/your-linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0b0b0b?style=for-the-badge&logo=linkedin&logoColor=b89b4d" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=d6d6d6" alt="LinkedIn" />
 </a>
 <a href="https://github.com/hisyamnurx">
-  <img src="https://img.shields.io/badge/GitHub-0b0b0b?style=for-the-badge&logo=github&logoColor=b89b4d" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=d6d6d6" alt="GitHub" />
 </a>
 <a href="https://eclyzer.net">
-  <img src="https://img.shields.io/badge/Eclyzer-0b0b0b?style=for-the-badge&logo=vercel&logoColor=b89b4d" alt="Eclyzer" />
+  <img src="https://img.shields.io/badge/Eclyzer-1a1a1a?style=for-the-badge&logo=vercel&logoColor=c8b47a" alt="Eclyzer" />
 </a>
 <a href="https://ai.eclyzer.net">
-  <img src="https://img.shields.io/badge/Workspace-0b0b0b?style=for-the-badge&logo=vercel&logoColor=b89b4d" alt="Eclyzer Workspace" />
+  <img src="https://img.shields.io/badge/Workspace-1a1a1a?style=for-the-badge&logo=vercel&logoColor=c8b47a" alt="Eclyzer Workspace" />
 </a>
 <a href="https://www.instagram.com/your-instagram">
-  <img src="https://img.shields.io/badge/Instagram-0b0b0b?style=for-the-badge&logo=instagram&logoColor=b89b4d" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=d6d6d6" alt="Instagram" />
 </a>
 <a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-0b0b0b?style=for-the-badge&logo=gmail&logoColor=b89b4d" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=d6d6d6" alt="Email" />
 </a>
 
 </div>
@@ -238,12 +238,12 @@ const hisyamnurx = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:050505,50:b89b4d,100:050505" alt="Divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:050505,30:2a2a2a,70:5a5a5a,100:050505" alt="Divider" />
 
 <br />
 
 <sub>
-  Designed around clean workflow, useful products, and quiet improvements.
+  Clean workflow. Practical products. Quiet improvements.
 </sub>
 
 </div>
