@@ -89,7 +89,9 @@ For me, great software is not only about features, but also about speed, clarity
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap&theme=dark" alt="Frontend" />
+  <img src="https://img.shields.io/badge/React-202020?style=for-the-badge&logo=react&logoColor=bdbdbd" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-202020?style=for-the-badge&logo=nextdotjs&logoColor=bdbdbd" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Bootstrap-202020?style=for-the-badge&logo=bootstrap&logoColor=bdbdbd" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Streamlit-202020?style=for-the-badge&logo=streamlit&logoColor=bdbdbd" alt="Streamlit" />
 </p>
 
